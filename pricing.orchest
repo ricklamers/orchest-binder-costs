@@ -17,13 +17,34 @@
             "meta_data": {
                 "hidden": false,
                 "position": [
-                    155,
-                    126
+                    89,
+                    90
                 ]
             },
             "parameters": {},
             "title": "Fetch data",
             "uuid": "8e830f1a-c4b5-4817-ba2a-867f66342603"
+        },
+        "e8c637e4-796e-4ccd-824f-dd284dbd3dc9": {
+            "environment": "f9daa8f5-f178-4cea-bc46-683581e9e0c5",
+            "file_path": "viz.ipynb",
+            "incoming_connections": [
+                "8e830f1a-c4b5-4817-ba2a-867f66342603"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    344.5,
+                    163
+                ]
+            },
+            "parameters": {},
+            "title": "Viz",
+            "uuid": "e8c637e4-796e-4ccd-824f-dd284dbd3dc9"
         }
     },
     "uuid": "91c5f5a0-dfbd-4eef-a476-6a2fd455825b",
