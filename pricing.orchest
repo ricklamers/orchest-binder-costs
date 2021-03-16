@@ -1,0 +1,31 @@
+{
+    "name": "pricing",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "8e830f1a-c4b5-4817-ba2a-867f66342603": {
+            "environment": "f9daa8f5-f178-4cea-bc46-683581e9e0c5",
+            "file_path": "data.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    155,
+                    126
+                ]
+            },
+            "parameters": {},
+            "title": "Fetch data",
+            "uuid": "8e830f1a-c4b5-4817-ba2a-867f66342603"
+        }
+    },
+    "uuid": "91c5f5a0-dfbd-4eef-a476-6a2fd455825b",
+    "version": "1.0.0"
+}
